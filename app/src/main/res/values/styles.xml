@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="dumbo" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@color/dumbo_purple</item>
+        <item name="colorAccent">@android:color/holo_blue_dark</item>
+    </style>
+
+    <style name="Theme.Translucent.Light.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style parent="android:Theme.DeviceDefault.Light" />
+
+</resources>

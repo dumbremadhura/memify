@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/leftSwipe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.firstapps.madhura.memifyit.SwipedLeft">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="223dp"
+        android:text="YOU SWIPED LEFT SON"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        tools:layout_editor_absoluteX="121dp"
+        tools:layout_editor_absoluteY="246dp" />
+
+</android.widget.RelativeLayout>

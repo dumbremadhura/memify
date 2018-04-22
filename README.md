@@ -6,4 +6,5 @@
   
 # Apk file  
   Do find the apk file here 
-  https://drive.google.com/open?id=1zs5VSUeGKT6vIoCz2Lr3XRUXkdIkPQjI
+  https://drive.google.com/open?id=17UqpNnpdXHDdrjMHUf6_JirO8W5BaobG
+  
